@@ -1,0 +1,78 @@
+/**
+ * First Homework
+ **/
+
+*{
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body {
+  font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  color: #777;
+  background: #777;
+  width: 960px;
+  font-size: 18px;
+  margin: 100px;
+}
+
+header {
+  font-size: 11px;
+  padding: 20px;
+  margin-top: 10px;
+  background: #ebebeb;
+  color: #777;
+}
+
+nav {
+  padding: 20px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  background: #ebebeb;
+}
+
+aside {
+  background: #ebebeb;
+  width: 495px;
+  margin-left: 20px;
+  float: right
+  
+}
+
+section {
+  padding: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  background: #ebebeb;
+  width: 495px;
+ }
+
+
+article {
+  color: #ebebeb;
+  background: #777;
+  overflow: auto;
+  margin: 20px;
+  padding: 10px
+  
+}
+
+h1 {
+  color: #777;
+  background: #ebebeb
+}
+
+p {
+  color: #777;
+  background: #ebebeb
+}
+
+
+footer {
+  font-size: 18px;
+  padding: 20px;
+  margin-bottom: 20px;
+  background: #ebebeb;
+  color: #777
+}
+
